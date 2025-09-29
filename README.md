@@ -11,4 +11,4 @@ PCB layout:
 
 Final PCB:
 
-<img width="350" height="400" alt="Rotated" src="https://github.com/user-attachments/assets/ba5397f9-0d80-46de-9373-d316b68f1621" />
+<img width="350" height="400" alt="Rotated" style="transform: rotate(90deg);" src="https://github.com/user-attachments/assets/ba5397f9-0d80-46de-9373-d316b68f1621" />
