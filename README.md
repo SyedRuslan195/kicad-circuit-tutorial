@@ -11,4 +11,4 @@ PCB layout:
 
 Final PCB:
 
-![img](https://github.com/user-attachments/assets/ba5397f9-0d80-46de-9373-d316b68f1621)
+<img width="779" height="804" alt="image" src="https://github.com/user-attachments/assets/ba5397f9-0d80-46de-9373-d316b68f1621" />
