@@ -1,5 +1,6 @@
 # kicad-circuit-tutorial
 Basic circuit design and PCB layout for later manufacturing.
+A serial in parallel out shifter is used with a clock signal as input resulting in leds turning on sequentially one after the other. The potentiometer allows to control the input clock frequency.
 
 Schematic:
 
